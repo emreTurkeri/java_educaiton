@@ -1,4 +1,4 @@
 # Educaiton
-I show what I've learned.
 
+I show what I've learned.
 TR//Öğrendiklerimi gösteriyorum.
