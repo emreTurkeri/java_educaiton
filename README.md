@@ -1,2 +1,4 @@
 # Educaiton
-Level 1 
+I show what I've learned.
+
+TR//Öğrendiklerimi gösteriyorum.
